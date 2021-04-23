@@ -8,3 +8,7 @@
 - As a user, I want to ba able to cross out an item from the list of items.
 - As a user, I want to ba able to delete an item from the list of items.
 - As a user, I want to ba able to change the order of items in the list of items.
+
+## Live link:
+
+project link : https://halehghavami.github.io/to-do-list-app/
